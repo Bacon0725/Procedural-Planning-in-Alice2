@@ -2,4 +2,5 @@
 Urban Planning simulation with alice2.  
 "CMakeLists.txt" in folder "alice2".  
 "alice2.h" in folder "include".  
-"ColorGrowth.h", "EllipseExpansion.h", "sketch_urbanplan.cpp" in folder "usersrc"
+"ColorGrowth.h", "EllipseExpansion.h", "sketch_urbanplan.cpp" in folder "usersrc"  
+"02_Terrain_Points.txt", "Land Border.txt", "smoothed_main_ridges.csv" in folder "build--bin--Release"
